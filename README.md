@@ -4,11 +4,11 @@
 
 # About Me
 
-💡 I enjoy working with stuff like Bots and Cybersecurity related stuff.
+💡 I enjoy writing clean, efficient code and solving complex problems through programming.
 
-🌱 I am interested in Machine Learning and Malware.
+🌱 I am interested in: exploring new technologies, staying up to date with industry developments, and constantly learning and improving my skills.
 
-⚡ In my free time, I like hanging out with friends, listening to music, playing guitar, and reading.
+⚡ In my free time, I engage in sports and physical activities to stay active, I like hanging out with my friends, I also enjoy reading and listening to podcasts about technology related stuff and personal development.
 
 
 # Who I am
