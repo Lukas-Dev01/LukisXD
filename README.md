@@ -60,8 +60,8 @@ I'm a programmer with a strong understanding of computer science and a passion f
 </details>
    
 📫 For the purpose of contacting or for potential hiring opportunities, kindly utilize the following provided contact information:
-- My Email: 
-- My LinkedIn:
+-Email: 
+-LinkedIn:
 
 Thank you in advance for your understanding.
 
