@@ -65,5 +65,5 @@ I'm a programmer with a strong understanding of computer science and a passion f
 - My Email: 
 - My LinkedIn:
 
-Thank you in advance for your understanding.
+  Thank you in advance for your understanding.
 
