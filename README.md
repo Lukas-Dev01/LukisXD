@@ -58,10 +58,11 @@ I'm a programmer with a strong understanding of computer science and a passion f
  <summary><h3>👨‍💻 Lukas Coding Journey</h3></summary>
    My coding journey began in high school, where I first became interested in programming through a computer science class. I was immediately drawn to the logical and problem-solving nature of the subject, and I knew that I wanted to pursue a career in this field. After high school, I enrolled in a degree program in computer science at a local university. During my studies, I had the opportunity to learn a variety of programming languages and gain hands-on experience through projects and an internship. I was able to apply my knowledge in a real-world setting, and it solidified my desire to pursue a career in programming. Currently, I am still in college, but I am looking forward to the opportunities that lie ahead once I graduate. I am also keeping an eye for any internships that align with my career aspirations and skills. As I progress through my studies, I have realized that I am particularly interested in web development. I have been exploring this area further, learning new languages and frameworks like JavaScript, React, and Node.js. I am determined to continue honing my skills and gaining experience in the field. I am excited to see where my coding journey will take me in the future, and I am open to exploring new technologies and areas of programming.
 </details>
-   
+
+---
 📫 For the purpose of contacting or for potential hiring opportunities, kindly utilize the following provided contact information:
--Email: 
--LinkedIn:
+- Email: 
+- LinkedIn:
 
 Thank you in advance for your understanding.
 
