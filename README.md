@@ -1,6 +1,6 @@
 # 🖥️ LukisXD
 
-**`Digital Craftsman (Programmer/Coder/Developer/Creator/)`**
+**`Digital Craftsman (Programmer/Coder/Developer/Creator)`**
 
 # About Me
 
