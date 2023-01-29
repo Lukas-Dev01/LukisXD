@@ -22,6 +22,8 @@ I'm a programmer with a strong understanding of computer science and a passion f
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
+--- 
+ 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
