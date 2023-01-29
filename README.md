@@ -6,9 +6,7 @@
 
 💡 I enjoy writing clean, efficient code and solving complex problems through programming.
 
-🌱 I am interested in exploring new technologies, staying up to date with industry developments, and constantly learning and improving 
-      my 
-            skills.
+🌱 I am interested in exploring new technologies, staying up to date with industry developments, and constantly learning and improving my skills.
 
 ⚡ In my free time, I engage in sports and physical activities to stay active, I like hanging out with my friends, I also enjoy reading and listening to podcasts about technology related stuff and personal development.
 
