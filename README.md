@@ -46,7 +46,7 @@ I'm a programmer with a strong understanding of computer science and a passion f
 
 #
 
-### 📊 Stats
+### 📊 My Stats
 
 ![LukisXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
 
