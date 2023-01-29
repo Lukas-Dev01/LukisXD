@@ -3,15 +3,16 @@
 **`Digital Craftsman (Programmer/Coder/Developer/Creator/)`**
 
 # About Me
----
+
 💡 I enjoy working with stuff like Bots and Cybersecurity related stuff.
 
 🌱 I am interested in Machine Learning and Malware.
 
 ⚡ In my free time, I like hanging out with friends, listening to music, playing guitar, and reading.
 
----
+
 # Who I am
+
 I'm a programmer with a strong understanding of computer science and a passion for using technology to solve problems. My skills include proficiency in various programming languages, as well as experience with software development methodologies and tools. I am highly analytical, able to think logically and troubleshoot effectively. With my technical expertise, I create and maintain software systems that are efficient and reliable. Whether I work independently or as part of a team, my work plays a vital role in the development and success of the projects I am involved in.
 
    <p align="left">
@@ -20,9 +21,7 @@ I'm a programmer with a strong understanding of computer science and a passion f
       <a href="https://github.com/LukisXD?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
----
-
+   
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
