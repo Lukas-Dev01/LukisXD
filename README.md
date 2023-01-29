@@ -20,8 +20,8 @@ I'm a programmer with a strong understanding of computer science and a passion f
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LukisXD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/LukisXD?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/)
    </p>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoff-bourne/)
    
 --- 
  
