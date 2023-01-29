@@ -14,16 +14,23 @@
 # Who I am
 
 I'm a programmer with a strong understanding of computer science and a passion for using technology to solve problems. My skills include proficiency in various programming languages, as well as experience with software development methodologies and tools. I am highly analytical, able to think logically and troubleshoot effectively. With my technical expertise, I create and maintain software systems that are efficient and reliable. Whether I work independently or as part of a team, my work plays a vital role in the development and success of the projects I am involved in.
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/)
+
    <p align="left">
       <a href="https://github.com/LukisXD?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LukisXD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/LukisXD?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
- 
-
    
+   
+---
+📫 For the purpose of contacting me or for potential hiring opportunities, kindly utilize the following provided contact information:
+- Email: 
+- LinkedIn:
+
+Thank you in advance for your understanding.
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/)
+ 
 --- 
  
 ### 🧰 Languages and Tools
@@ -61,16 +68,5 @@ I'm a programmer with a strong understanding of computer science and a passion f
    My coding journey began in high school, where I first became interested in programming through a computer science class. I was immediately drawn to the logical and problem-solving nature of the subject, and I knew that I wanted to pursue a career in this field. After high school, I enrolled in a degree program in computer science at a local university. During my studies, I had the opportunity to learn a variety of programming languages and gain hands-on experience through projects and an internship. I was able to apply my knowledge in a real-world setting, and it solidified my desire to pursue a career in programming. Currently, I am still in college, but I am looking forward to the opportunities that lie ahead once I graduate. I am also keeping an eye for any internships that align with my career aspirations and skills. As I progress through my studies, I have realized that I am particularly interested in web development. I have been exploring this area further, learning new languages and frameworks like JavaScript, React, and Node.js. I am determined to continue honing my skills and gaining experience in the field. I am excited to see where my coding journey will take me in the future, and I am open to exploring new technologies and areas of programming.
 </details>
 
----
-📫 For the purpose of contacting me or for potential hiring opportunities, kindly utilize the following provided contact information:
-- Email: 
-- LinkedIn:
 
-Thank you in advance for your understanding.
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/)
-
-![Metrics](github-metrics.svg)
-
-### Notable professional contributions
 
