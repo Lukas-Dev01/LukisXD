@@ -3,7 +3,7 @@
 **`Digital Craftsman (Programmer/Coder/Developer/Creator/)`**
 
 # About Me
-
+---
 💡 I enjoy working with stuff like Bots and Cybersecurity related stuff.
 
 🌱 I am interested in Machine Learning and Malware.
