@@ -70,3 +70,5 @@ Thank you in advance for your understanding.
 
 ![Metrics](github-metrics.svg)
 
+### Notable professional contributions
+
