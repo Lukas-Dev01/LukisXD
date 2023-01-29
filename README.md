@@ -10,6 +10,7 @@
 
 ⚡ In my free time, I like hanging out with friends, listening to music, playing guitar, and reading.
 
+---
 # Who I am
 I'm a programmer with a strong understanding of computer science and a passion for using technology to solve problems. My skills include proficiency in various programming languages, as well as experience with software development methodologies and tools. I am highly analytical, able to think logically and troubleshoot effectively. With my technical expertise, I create and maintain software systems that are efficient and reliable. Whether I work independently or as part of a team, my work plays a vital role in the development and success of the projects I am involved in.
 
