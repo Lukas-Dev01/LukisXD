@@ -54,7 +54,8 @@ Thank you in advance for your understanding.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-### 📊 GitHub Stats:
+<details>
+<summary><h3>📊 Github Stats and Activity: </h3></summary>
 
 ![LukisXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=dark)](https://git.io/streak-stats)
@@ -64,11 +65,10 @@ Thank you in advance for your understanding.
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LukisXD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LukisXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-
-
- <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=gruvbox&border_radius=4.5) -->
+</details>
 
 <details>
  <summary><h3>👨‍💻 Lukas Coding Journey</h3></summary>
