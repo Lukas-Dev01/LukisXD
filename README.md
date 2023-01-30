@@ -25,15 +25,14 @@ I'm a programmer with a strong understanding of computer science and a passion f
    
 ---
 📫 For the purpose of contacting me or for potential hiring opportunities, kindly utilize the following provided contact information:
-- Email: 
-- LinkedIn:
+- My Email: lukassakinis17@gmail.com
+- My LinkedIn: https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/
 
 Thank you in advance for your understanding.
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/)
- 
+
 --- 
  
-### 🧰 My Tech Stack
+### 🧰 Tech Stack:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -55,7 +54,7 @@ Thank you in advance for your understanding.
 
 #
 
-### 📊 Stats
+### 📊 GitHub Stats:
 
 ![LukisXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
 
