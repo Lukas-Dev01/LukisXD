@@ -1,4 +1,4 @@
-# 👨‍💻 LukisXD <h3> A passionate full stack developer </h3>
+# 👨‍💻 LukisXD - A passionate full stack developer
 
 **`Digital Craftsman (Programmer/Coder/Developer/Creator)`**
 
