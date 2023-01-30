@@ -1,4 +1,4 @@
-# 🖥️ LukisXD
+# 💻LukisXD
 
 **`Digital Craftsman (Programmer/Coder/Developer/Creator)`**
 
