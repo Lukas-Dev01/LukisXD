@@ -33,7 +33,7 @@ Thank you in advance for your understanding.
  
 --- 
  
-### 🧰 Languages and Tools
+### 🧰 My Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -55,7 +55,7 @@ Thank you in advance for your understanding.
 
 #
 
-### 📊 My Tech Stack
+### 📊Stats
 
 ![LukisXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
 
