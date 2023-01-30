@@ -20,6 +20,8 @@ I'm a programmer with a strong understanding of computer science and a passion f
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LukisXD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/LukisXD?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://github.com/LukisXD/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/LukisXD-profile-views"/></a>
    </p>
    
    
@@ -52,15 +54,21 @@ Thank you in advance for your understanding.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
 ### 📊 GitHub Stats:
 
 ![LukisXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=dark)](https://git.io/streak-stats)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LukisXD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LukisXD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LukisXD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LukisXD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+
+
+ <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Lukas Coding Journey</h3></summary>
