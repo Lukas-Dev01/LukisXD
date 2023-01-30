@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Programmer/Coder/Developer/Creator)`**
 
-# About Me
+# About Me:
 
 💡 I enjoy writing clean, efficient code and solving complex problems through programming.
 
@@ -11,7 +11,7 @@
 ⚡ In my free time, I engage in sports and physical activities to stay active, I like hanging out with my friends, I also enjoy reading and listening to podcasts about technology related stuff and personal development.
 
 
-# Who I am
+# Who I am:
 
 I'm a programmer with a strong understanding of computer science and a passion for using technology to solve problems. My skills include proficiency in various programming languages, as well as experience with software development methodologies and tools. I am highly analytical, able to think logically and troubleshoot effectively. With my technical expertise, I create and maintain software systems that are efficient and reliable. Whether I work independently or as part of a team, my work plays a vital role in the development and success of the projects I am involved in.
 
