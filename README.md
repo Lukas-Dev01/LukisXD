@@ -27,7 +27,7 @@ I'm a programmer with a strong understanding of computer science and a passion f
 ---
 📫 For the purpose of contacting me or for potential hiring opportunities, kindly utilize the following provided contact information:
 - My Email: lukassakinis17@gmail.com
-- My LinkedIn: https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/
+- My LinkedIn: https://www.linkedin.com/in/lukas-%C5%A1akinis-49a5b3201/ - unfinished
 
 Thank you in advance for your understanding.
 
