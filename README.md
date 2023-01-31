@@ -43,7 +43,7 @@ Thank you in advance for your understanding.
 
 <details><summary><h3>📊 Github Stats and Activity: </h3></summary>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=dark)](https://git.io/streak-stats)
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
