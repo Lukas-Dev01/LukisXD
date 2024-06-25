@@ -1,4 +1,4 @@
-# 👨‍💻 Lukas - A passionate programmer from Lithuania
+# 👨‍💻 Lukas - A passionate Developer
 
 **`Digital Craftsman (Programmer/Coder/Developer/Creator)`**
 
@@ -38,7 +38,7 @@ I'm a programmer with a strong understanding of computer science and a passion f
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=dark)](https://git.io/streak-stats)
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github-readme-activity-graph.cyclic.app -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LukisXD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LukisXD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
