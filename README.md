@@ -24,7 +24,6 @@ I'm a programmer with a strong understanding of computer science and a passion f
    </p>
    
    
----
 --- 
  
 ### 🧰 My Tech Stack:
