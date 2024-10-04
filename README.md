@@ -16,10 +16,10 @@
 I'm a programmer with a strong understanding of computer science and a passion for using technology to solve problems. My skills include proficiency in various programming languages, as well as experience with software development methodologies and tools. I am highly analytical, able to think logically and troubleshoot effectively. With my technical expertise, I create and maintain software systems that are efficient and reliable. Whether I work independently or as part of a team, my work plays a vital role in the development and success of the projects I am involved in.
 
    <p align="left">
-      <a href="https://github.com/LukisXD?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LukisXD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/LukisXD?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LukisXD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/Lukas-Dev01?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lukas-Dev01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Lukas-Dev01?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lukas-Dev01?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <img src="https://komarev.com/ghpvc/?username=lukas&label=Profile%20views&color=0e75b6&style=flat" alt="lukas" />
    </p>
    
@@ -36,19 +36,19 @@ I'm a programmer with a strong understanding of computer science and a passion f
 
 <details><summary><h3>📊 Github Stats and Activity: </h3></summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukisXD&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukas-Dev01&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lukas-Dev01&theme=dark)](https://git.io/streak-stats)
 <!-- https://github-readme-activity-graph.cyclic.app -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LukisXD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LukisXD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lukas-Dev01's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Dev01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-[![LukisXD's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukisXD&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lukas-Dev01's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukas-Dev01&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LukisXD&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Lukas-Dev01&theme=gruvbox&border_radius=4.5) -->
 </details>
 
 <details>
